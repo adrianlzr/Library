@@ -1,9 +1,9 @@
-package com.mip.MyLibrary.controllers;
+package com.mip.mylibrary.controllers;
 
-import com.mip.MyLibrary.exceptions.LoginException;
-import com.mip.MyLibrary.services.LoginService;
-import com.mip.MyLibrary.models.User;
-import com.mip.MyLibrary.common.Utils;
+import com.mip.mylibrary.exceptions.LoginException;
+import com.mip.mylibrary.services.LoginService;
+import com.mip.mylibrary.models.User;
+import com.mip.mylibrary.common.Utils;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

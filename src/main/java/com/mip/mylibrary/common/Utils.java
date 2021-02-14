@@ -1,4 +1,4 @@
-package com.mip.MyLibrary.common;
+package com.mip.mylibrary.common;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;

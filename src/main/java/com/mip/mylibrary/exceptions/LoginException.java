@@ -1,4 +1,4 @@
-package com.mip.MyLibrary.exceptions;
+package com.mip.mylibrary.exceptions;
 
 public class LoginException extends Exception {
     public LoginException(String message) {

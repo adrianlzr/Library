@@ -1,4 +1,4 @@
-package com.mip.MyLibrary.controllers;
+package com.mip.mylibrary.controllers;
 
 public class LibraryController extends BaseController {
 }

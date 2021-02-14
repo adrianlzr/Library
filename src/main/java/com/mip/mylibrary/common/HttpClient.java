@@ -1,13 +1,12 @@
-package com.mip.MyLibrary.common;
+package com.mip.mylibrary.common;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.mip.MyLibrary.models.HttpErrorResponse;
+import com.mip.mylibrary.models.HttpErrorResponse;
 import com.squareup.okhttp.*;
 
 import java.io.IOException;
 import java.lang.reflect.Type;
-import java.util.List;
 
 public class HttpClient {
 

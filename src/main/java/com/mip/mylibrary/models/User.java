@@ -1,4 +1,4 @@
-package com.mip.MyLibrary.models;
+package com.mip.mylibrary.models;
 
 import java.util.UUID;
 

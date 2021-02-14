@@ -1,4 +1,4 @@
-package com.mip.MyLibrary;
+package com.mip.mylibrary;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

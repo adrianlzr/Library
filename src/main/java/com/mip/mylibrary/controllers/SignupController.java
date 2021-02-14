@@ -1,9 +1,9 @@
-package com.mip.MyLibrary.controllers;
+package com.mip.mylibrary.controllers;
 
-import com.mip.MyLibrary.services.SignupService;
-import com.mip.MyLibrary.models.User;
-import com.mip.MyLibrary.common.Utils;
-import com.mip.MyLibrary.exceptions.SignupException;
+import com.mip.mylibrary.services.SignupService;
+import com.mip.mylibrary.models.User;
+import com.mip.mylibrary.common.Utils;
+import com.mip.mylibrary.exceptions.SignupException;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;

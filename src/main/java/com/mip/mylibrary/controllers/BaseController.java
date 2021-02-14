@@ -1,6 +1,6 @@
-package com.mip.MyLibrary.controllers;
+package com.mip.mylibrary.controllers;
 
-import com.mip.MyLibrary.models.User;
+import com.mip.mylibrary.models.User;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 

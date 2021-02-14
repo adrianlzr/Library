@@ -1,9 +1,8 @@
-package com.mip.MyLibrary.services;
+package com.mip.mylibrary.services;
 
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.mip.MyLibrary.models.User;
-import com.mip.MyLibrary.exceptions.SignupException;
+import com.mip.mylibrary.models.User;
+import com.mip.mylibrary.exceptions.SignupException;
 import com.squareup.okhttp.*;
 
 import java.io.IOException;
